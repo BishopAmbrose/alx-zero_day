@@ -1,1 +1,1 @@
-i was late for my first deadline on git project
+am done with git now
